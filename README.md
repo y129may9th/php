@@ -1,5 +1,5 @@
 # サーバー起動
-```php
+```bash
 $ docker run --rm \
   --publish 8000:8000 \
   --name php-image
