@@ -1,3 +1,9 @@
+### Dockerfile を使う
+```bash
+$ docker build -t my_php ./docker
+$ docker image ls
+
+```
 ### サーバー起動
 ```bash
 $ docker run --rm \
